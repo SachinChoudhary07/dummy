@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "681204606255",
+    "project_id": "dummytask-e93d2",
+    "storage_bucket": "dummytask-e93d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681204606255:android:37a16ed52218f214eaadda",
+        "android_client_info": {
+          "package_name": "com.example.taskc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRLqWBYmJsZ95s1mCjCt3nEglhN6N4YKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
